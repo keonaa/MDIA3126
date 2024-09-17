@@ -9,6 +9,6 @@
 - proper documentation
 - how to use expo
 
-# 1 word for how you're feeling
+## 1 word for how you're feeling
 - optimistic
 
